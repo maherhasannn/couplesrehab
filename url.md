@@ -1,5 +1,5 @@
 ---
-name: rehab-url-map
+name: url.md
 description: read on demand. URL inventory and site architecture for couplesrehab.com — slug, page type, cluster, parent/pillar, geo, target keyword, and CTA mode for every planned page. Look up a slug here before writing to get its structure, internal links, and conversion action. Costs zero tokens until needed.
 ---
 
