@@ -1,5 +1,5 @@
 ---
-name: rehab-schema
+name: schema.md
 description: Generate a complete, valid enterprise JSON-LD @graph for a couplesrehab.com page (couples detox/rehab, withdrawal, insurance, geo, emergency pages). Use whenever the user provides a page URL/topic/title/meta/H1 and asks for schema, JSON-LD, or structured data. Output is one ready-to-paste <script> tag, Google-valid, with stable @IDs. Pairs with rehab-content-skill.md and rehab-url-map.md.
 ---
 
