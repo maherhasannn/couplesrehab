@@ -120,7 +120,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 58 | [ ] | Can Couples Share a Room in Rehab | `/can-married-couples-share-a-room-in-rehab/` | Info | education | assess | |
 | 59 | [ ] | Rehab Toxic Relationships/Addiction | `/rehab-for-toxic-relationships-and-addiction/` | Info | education | call | ⚠️ IPV screening |
 | 60 | [ ] | Relationship Problems from Addiction | `/relationship-problems-caused-by-addiction/` | Info | education | assess | |
-| 61 | [ ] | My Husband Is Addicted to Drugs | `/my-husband-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
+| 61 | [✅] | My Husband Is Addicted to Drugs | `/my-husband-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
 | 62 | [ ] | My Wife Is an Alcoholic | `/my-wife-is-an-alcoholic/` | Crisis | couples | call | high-intent |
 | 63 | [ ] | My Boyfriend Is Addicted to Drugs | `/my-boyfriend-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
 | 64 | [ ] | My Girlfriend Needs Rehab | `/my-girlfriend-needs-rehab/` | Crisis | couples | call | high-intent |
