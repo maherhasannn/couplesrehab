@@ -132,4 +132,3 @@ The script reads credentials from `.env`, posts to `https://couplesrehab.com/wp-
 - **Crisis URL:** `https://couplesrehab.com/crisis-support/`
 - **API endpoint:** `https://couplesrehab.com/wp-json/wp/v2/posts`  *(confirm)*
 - **Address:** *(none confirmed — site is a national referral network with no public street address. Do NOT invent one. If a verified mailing address exists, add it here; otherwise schema uses country-only Place.)*
-- **Medical reviewer:** *(live RI page shows "Mark Steven Shandrow, CADTP #22619" — confirm whether this is the standard reviewer for all pages before hardcoding.)*
