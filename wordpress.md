@@ -1,6 +1,6 @@
 ---
 name: wordpress.md
-description: Write a deep-clinical, 4,000–6,000+ word authoritative behavioral-health article for couplesrehab.com (couples detox/rehab, medical detox, withdrawal, emergency/same-day intent, insurance, geo landing pages) built to rank in Google organic, AI Overviews, and AI retrieval (ChatGPT, Gemini, Claude, Perplexity). Use whenever the user asks for a rehab/detox/couples-rehab article, pillar page, geo page, or WordPress post targeting high-intent, crisis-state searchers. The single conversion goal is phone calls to 888-500-2110. Every article embeds 3 CTA boxes (top, middle, end).
+description: Write a deep-clinical, 4,000–6,000+ word authoritative behavioral-health article for couplesrehab.com (couples detox/rehab, medical detox, withdrawal, emergency/same-day intent, insurance, geo landing pages) built to rank in Google organic, AI Overviews, and AI retrieval (ChatGPT, Gemini, Claude, Perplexity). Use whenever the user asks for a rehab/detox/couples-rehab article, pillar page, geo page, or WordPress post targeting high-intent, crisis-state searchers. The single conversion goal is phone calls to 888-500-2110. Every article embeds 3 CTA boxes (top, middle, end). NO EM DASHES.
 ---
 
 # Rehab Content Skill (couplesrehab.com)
