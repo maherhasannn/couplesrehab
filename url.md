@@ -49,244 +49,134 @@ When given a slug or topic:
 3. Use **parent/pillar** + **cluster** to build internal links — always link up to the parent pillar, sideways to 2–3 cluster siblings, and to `/couples-assessment/` + `/crisis-support/`.
 4. Use **CTA mode** to set conversion action (always the call).
 5. Use **target keyword** as the primary; add natural variations.
+6. **FIND A URL THAT HASNT BEEN USED** and after building a page mark the status as ✅.
 
 ---
 
-## CLUSTER 1 — Withdrawal & Detox Education
-**Pillar:** `/couples-detox-programs/` (care path) + `/addiction-education/` (resource)
+# Couples Rehab — Content Build Todo (90 pages)
 
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /cocaine-withdrawal-symptoms-help/ | education | — | cocaine withdrawal symptoms | assessment-primary |
-| /adderall-withdrawal-symptoms-help/ | education | — | adderall withdrawal symptoms | assessment-primary |
-| /opioid-withdrawal-symptoms-help/ | education | — | opioid withdrawal symptoms | assessment-primary |
-| /benzodiazepine-withdrawal-symptoms-help/ | education | — | benzodiazepine withdrawal symptoms | assessment-primary |
-| /what-does-fentanyl-withdrawal-feel-like/ | education | — | what fentanyl withdrawal feels like | assessment-primary |
-| /how-long-does-heroin-withdrawal-last/ | education | — | how long heroin withdrawal lasts | assessment-primary |
-| /how-long-does-fentanyl-withdrawal-last/ | education | — | how long fentanyl withdrawal lasts | assessment-primary |
-| /how-dangerous-is-alcohol-withdrawal/ | education | — | is alcohol withdrawal dangerous | assessment-primary |
-| /what-drugs-require-medical-detox/ | education | — | what drugs require medical detox | assessment-primary |
-| /signs-of-severe-drug-withdrawal/ | education | — | signs of severe drug withdrawal | call-primary |
-| /fentanyl-detox-timeline/ | education | — | fentanyl detox timeline | assessment-primary |
-| /meth-detox-timeline/ | education | — | meth detox timeline | assessment-primary |
-| /how-long-does-detox-take/ | education | — | how long does detox take | assessment-primary |
-| /what-happens-in-medical-detox/ | education | — | what happens in medical detox | assessment-primary |
-| /when-to-go-to-the-er-for-withdrawal/ | emergency-intent | — | when to go to ER for withdrawal | call-primary |
-| /can-you-die-from-withdrawal/ | education | — | can you die from withdrawal | call-primary |
-| /detox-vs-rehab-whats-the-difference/ | comparison/process | — | detox vs rehab difference | assessment-primary |
-| /do-i-need-detox-before-rehab/ | comparison/process | — | do I need detox before rehab | assessment-primary |
-| /what-to-pack-for-detox/ | education | — | what to pack for detox | assessment-primary |
-| /can-you-use-your-phone-in-detox/ | education | — | can you use your phone in detox | assessment-primary |
+Status: `[ ]` not started · `[✅]` posted to WP draft
+⚠️ = YMYL/accuracy watch item (see notes at bottom)
 
-## CLUSTER 2 — Emergency / Same-Day Intent
-**Pillar:** `/couples-detox-programs/` + `/crisis-support/`
-*All call-primary. Re-pointed from "our admission" to "speak with a Care Navigator now / get matched fast." 911 + 988 prominent.*
+| # | Status | Page | Slug | Cluster | Type | CTA mode | Flags |
+|---|---|---|---|---|---|---|---|
+| 1 | [ ] | Couples Rehab Beverly Hills | `/couples-rehab-beverly-hills/` | LA Geo | geo | call | |
+| 2 | [ ] | Couples Rehab Santa Monica | `/couples-rehab-santa-monica/` | LA Geo | geo | call | |
+| 3 | [ ] | Couples Rehab Pasadena | `/couples-rehab-pasadena/` | LA Geo | geo | call | |
+| 4 | [ ] | Couples Rehab Long Beach | `/couples-rehab-long-beach/` | LA Geo | geo | call | |
+| 5 | [ ] | Couples Rehab Glendale | `/couples-rehab-glendale/` | LA Geo | geo | call | |
+| 6 | [ ] | Couples Rehab Burbank | `/couples-rehab-burbank/` | LA Geo | geo | call | |
+| 7 | [ ] | Couples Rehab Malibu | `/couples-rehab-malibu/` | LA Geo | geo | call | |
+| 8 | [ ] | Couples Rehab Torrance | `/couples-rehab-torrance/` | LA Geo | geo | call | |
+| 9 | [ ] | Couples Rehab West Hollywood | `/couples-rehab-west-hollywood/` | LA Geo | geo | call | |
+| 10 | [ ] | Couples Rehab Sherman Oaks | `/couples-rehab-sherman-oaks/` | LA Geo | geo | call | |
+| 11 | [ ] | Couples Rehab Studio City | `/couples-rehab-studio-city/` | LA Geo | geo | call | |
+| 12 | [ ] | Couples Rehab Encino | `/couples-rehab-encino/` | LA Geo | geo | call | |
+| 13 | [ ] | Couples Rehab Woodland Hills | `/couples-rehab-woodland-hills/` | LA Geo | geo | call | |
+| 14 | [ ] | Couples Rehab Calabasas | `/couples-rehab-calabasas/` | LA Geo | geo | call | |
+| 15 | [ ] | Couples Rehab Redondo Beach | `/couples-rehab-redondo-beach/` | LA Geo | geo | call | |
+| 16 | [ ] | Couples Rehab Manhattan Beach | `/couples-rehab-manhattan-beach/` | LA Geo | geo | call | |
+| 17 | [ ] | Couples Rehab Hermosa Beach | `/couples-rehab-hermosa-beach/` | LA Geo | geo | call | |
+| 18 | [ ] | Couples Rehab Marina Del Rey | `/couples-rehab-marina-del-rey/` | LA Geo | geo | call | |
+| 19 | [ ] | Couples Rehab Culver City | `/couples-rehab-culver-city/` | LA Geo | geo | call | |
+| 20 | [ ] | Couples Rehab Venice Beach | `/couples-rehab-venice-beach/` | LA Geo | geo | call | |
+| 21 | [ ] | Couples Rehab Koreatown LA | `/couples-rehab-koreatown-los-angeles/` | LA Geo | geo | call | |
+| 22 | [ ] | Couples Rehab Downtown LA | `/couples-rehab-downtown-los-angeles/` | LA Geo | geo | call | |
+| 23 | [ ] | Luxury Couples Rehab LA | `/luxury-couples-rehab-los-angeles/` | Premium | geo | call | |
+| 24 | [ ] | Private Couples Rehab CA | `/private-couples-rehab-california/` | Premium | geo | call | |
+| 25 | [ ] | Executive Couples Rehab LA | `/executive-couples-rehab-los-angeles/` | Premium | geo | call | |
+| 26 | [ ] | Celebrity Couples Rehab CA | `/celebrity-couples-rehab-california/` | Premium | geo | call | ⚠️ no real names |
+| 27 | [ ] | Same Day Couples Detox CA | `/same-day-couples-detox-california/` | Emergency | emergency | call | 911/988 |
+| 28 | [ ] | Emergency Couples Rehab LA | `/emergency-couples-rehab-los-angeles/` | Emergency | emergency | call | 911/988 |
+| 29 | [ ] | 24 Hour Couples Rehab Admissions | `/24-hour-couples-rehab-admissions/` | Emergency | emergency | call | 911/988 |
+| 30 | [ ] | Couples Rehab PPO Insurance | `/couples-rehab-ppo-insurance/` | Insurance | insurance | call | no coverage guarantee |
+| 31 | [ ] | Couples Rehab Blue Shield | `/blue-shield-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
+| 32 | [ ] | Couples Rehab Magellan | `/magellan-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
+| 33 | [ ] | Couples Rehab Health Net | `/health-net-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
+| 34 | [ ] | Couples Rehab Optum | `/optum-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
+| 35 | [ ] | Fentanyl Treatment for Couples | `/fentanyl-addiction-treatment-for-couples/` | Substance | couples | call | |
+| 36 | [ ] | Alcohol Rehab for Couples CA | `/alcohol-rehab-for-couples-california/` | Substance | couples | call | ⚠️ detox danger |
+| 37 | [ ] | Meth Rehab for Couples LA | `/meth-rehab-for-couples-los-angeles/` | Substance | couples | call | |
+| 38 | [ ] | Cocaine Rehab for Couples CA | `/cocaine-rehab-for-couples-california/` | Substance | couples | call | |
+| 39 | [ ] | Heroin Rehab for Couples CA | `/heroin-rehab-for-couples-california/` | Substance | couples | call | |
+| 40 | [ ] | Xanax Treatment for Couples | `/xanax-addiction-treatment-for-couples/` | Substance | couples | call | ⚠️ detox danger |
+| 41 | [ ] | Prescription Drug Rehab Couples | `/prescription-drug-rehab-for-couples/` | Substance | couples | call | dup of #41 in source |
+| 42 | [ ] | Couples Detox Alcohol Withdrawal | `/couples-detox-for-alcohol-withdrawal/` | Substance | couples | call | ⚠️ seizure/DTs |
+| 43 | [ ] | Couples Detox for Fentanyl | `/couples-detox-for-fentanyl/` | Substance | couples | call | |
+| 44 | [ ] | Couples Rehab Anxiety/Depression | `/couples-rehab-for-anxiety-and-depression/` | Mental Health | couples | call | |
+| 45 | [ ] | Trauma Therapy for Couples | `/trauma-therapy-for-couples-in-recovery/` | Mental Health | couples | call | |
+| 46 | [ ] | PTSD Treatment for Couples | `/ptsd-treatment-for-couples/` | Mental Health | couples | call | |
+| 47 | [ ] | Bipolar Treatment for Couples | `/bipolar-disorder-treatment-for-couples/` | Mental Health | couples | call | |
+| 48 | [ ] | OCD Treatment for Couples | `/ocd-treatment-for-couples/` | Mental Health | couples | call | |
+| 49 | [ ] | Couples Therapy During Recovery | `/couples-therapy-during-addiction-recovery/` | Mental Health | education | assess | |
+| 50 | [ ] | Marriage Counseling During Rehab | `/marriage-counseling-during-rehab/` | Mental Health | education | assess | |
+| 51 | [ ] | Can Couples Go to Rehab Together | `/can-couples-go-to-rehab-together/` | Info | comparison | assess | |
+| 52 | [ ] | Does Couples Rehab Actually Work | `/does-couples-rehab-actually-work/` | Info | education | assess | ⚠️ no success claims |
+| 53 | [ ] | How Long Is Couples Rehab | `/how-long-is-couples-rehab/` | Info | education | assess | |
+| 54 | [ ] | How Much Does Couples Rehab Cost | `/how-much-does-couples-rehab-cost/` | Info | education | assess | |
+| 55 | [ ] | What Happens in Couples Rehab | `/what-happens-in-couples-rehab/` | Info | education | assess | |
+| 56 | [ ] | Couples Rehab Success Rates | `/couples-rehab-success-rates/` | Info | education | assess | ⚠️ cite sources |
+| 57 | [ ] | Couples Rehab vs Separate Rehab | `/couples-rehab-vs-separate-rehab/` | Info | comparison | assess | |
+| 58 | [ ] | Can Couples Share a Room in Rehab | `/can-married-couples-share-a-room-in-rehab/` | Info | education | assess | |
+| 59 | [ ] | Rehab Toxic Relationships/Addiction | `/rehab-for-toxic-relationships-and-addiction/` | Info | education | call | ⚠️ IPV screening |
+| 60 | [ ] | Relationship Problems from Addiction | `/relationship-problems-caused-by-addiction/` | Info | education | assess | |
+| 61 | [ ] | My Husband Is Addicted to Drugs | `/my-husband-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
+| 62 | [ ] | My Wife Is an Alcoholic | `/my-wife-is-an-alcoholic/` | Crisis | couples | call | high-intent |
+| 63 | [ ] | My Boyfriend Is Addicted to Drugs | `/my-boyfriend-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
+| 64 | [ ] | My Girlfriend Needs Rehab | `/my-girlfriend-needs-rehab/` | Crisis | couples | call | high-intent |
+| 65 | [ ] | How to Convince Partner to Go | `/how-to-convince-your-partner-to-go-to-rehab/` | Crisis | couples | call | high-intent |
+| 66 | [ ] | Signs Your Relationship Needs Rehab | `/signs-your-relationship-needs-rehab/` | Crisis | couples | call | |
+| 67 | [ ] | Couples Intervention Services LA | `/couples-intervention-services-los-angeles/` | Intervention | couples | call | |
+| 68 | [ ] | Family Intervention Couples Addiction | `/family-intervention-for-couples-addiction/` | Intervention | couples | call | |
+| 69 | [ ] | Couples Sober Living LA | `/couples-sober-living-los-angeles/` | Intervention | couples | call | |
+| 70 | [ ] | Pet Friendly Couples Rehab CA | `/pet-friendly-couples-rehab-california/` | Niche | couples | call | |
+| 71 | [ ] | Christian Couples Rehab CA | `/christian-couples-rehab-california/` | Niche | couples | call | |
+| 72 | [ ] | Holistic Couples Rehab LA | `/holistic-couples-rehab-los-angeles/` | Niche | couples | call | |
+| 73 | [ ] | Beachfront Couples Rehab CA | `/beachfront-couples-rehab-california/` | Niche | couples | call | |
+| 74 | [ ] | Couples Rehab Near Me | `/couples-rehab-near-me/` | Niche | couples | call | |
+| 75 | [ ] | Best Couples Rehab CA | `/best-couples-rehab-california/` | Premium | geo | call | ⚠️ no ranking claim |
+| 76 | [ ] | Best Couples Detox LA | `/best-couples-detox-los-angeles/` | Premium | geo | call | ⚠️ no ranking claim |
+| 77 | [ ] | Couples Mental Health Treatment LA | `/couples-mental-health-treatment-los-angeles/` | Mental Health | couples | call | |
+| 78 | [ ] | Couples Mental Health IOP CA | `/couples-mental-health-iop-california/` | Levels of Care | couples | assess | |
+| 79 | [ ] | Couples PHP Program LA | `/couples-php-program-los-angeles/` | Levels of Care | couples | assess | |
+| 80 | [ ] | Virtual Couples Therapy CA | `/virtual-couples-therapy-california/` | Levels of Care | couples | assess | →/telehealth/ |
+| 81 | [ ] | Online Couples Addiction Counseling | `/online-couples-addiction-counseling/` | Levels of Care | couples | assess | →/telehealth/ |
+| 82 | [ ] | Telehealth Couples Rehab CA | `/telehealth-couples-rehab-california/` | Levels of Care | couples | assess | →/telehealth/ |
+| 83 | [ ] | Rehab for Couples With Children | `/rehab-for-couples-with-children/` | Niche | couples | call | |
+| 84 | [ ] | Young Couples Addiction Treatment | `/young-couples-addiction-treatment/` | Niche | couples | call | |
+| 85 | [ ] | Rehab for LGBTQ Married Couples | `/rehab-for-lgbtq-married-couples/` | Niche | couples | call | |
+| 86 | [ ] | Couples Rehab Admissions Guide | `/couples-rehab-admissions-guide/` | Hub | comparison | call | link anchor |
+| 87 | [ ] | Couples Detox Admissions Process | `/couples-detox-admissions-process/` | Hub | comparison | call | link anchor |
+| 88 | [ ] | Couples Rehab Insurance Verification | `/couples-rehab-insurance-verification/` | Hub | insurance | call | link anchor |
+| 89 | [ ] | LA Couples Recovery Resource Guide | `/los-angeles-couples-recovery-resource-guide/` | Hub | education | call | link anchor |
+| 90 | [ ] | California Couples Rehab Resource Hub | `/california-couples-rehab-resource-hub/` | Hub | education | call | link anchor |
 
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /emergency-drug-detox-near-me/ | emergency-intent | near-me | emergency drug detox near me | call-primary |
-| /same-day-detox-near-me/ | emergency-intent | near-me | same day detox near me | call-primary |
-| /24-hour-drug-detox-near-me/ | emergency-intent | near-me | 24 hour drug detox near me | call-primary |
-| /immediate-detox-admission/ | emergency-intent | — | immediate detox admission | call-primary |
-| /inpatient-detox-near-me/ | emergency-intent | near-me | inpatient detox near me | call-primary |
-| /drug-detox-centers-near-me/ | emergency-intent | near-me | drug detox centers near me | call-primary |
-| /alcohol-detox-centers-near-me/ | emergency-intent | near-me | alcohol detox centers near me | call-primary |
-| /medical-detox-near-me/ | emergency-intent | near-me | medical detox near me | call-primary |
-| /private-detox-center-near-me/ | emergency-intent | near-me | private detox center near me | call-primary |
-| /urgent-detox-help/ | emergency-intent | — | urgent detox help | call-primary |
-| /fentanyl-detox-near-me/ | emergency-intent | near-me | fentanyl detox near me | call-primary |
-| /opioid-detox-near-me/ | emergency-intent | near-me | opioid detox near me | call-primary |
-| /xanax-detox-near-me/ | emergency-intent | near-me | xanax detox near me | call-primary |
-| /alcohol-detox-with-medical-supervision/ | emergency-intent | — | alcohol detox with medical supervision | call-primary |
-| /crisis-detox-help/ | emergency-intent | — | crisis detox help | call-primary |
-| /addiction-crisis-hotline-for-families/ | emergency-intent | — | addiction crisis hotline for families | call-primary |
-| /urgent-addiction-help/ | emergency-intent | — | urgent addiction help | call-primary |
+## Cluster counts
+| Cluster | Pages |
+|---|---|
+| LA Geo | 22 |
+| Premium | 6 |
+| Emergency | 3 |
+| Insurance | 5 |
+| Substance | 9 |
+| Mental Health | 8 |
+| Info / Decision | 10 |
+| Crisis (high-intent) | 6 |
+| Intervention | 3 |
+| Niche | 8 |
+| Levels of Care | 5 |
+| Hub | 5 |
+| **Total** | **90** |
 
-## CLUSTER 3 — Insurance & Payment
-**Pillar:** `/insurance-coverage/`
-*Route to free benefits verification via the call. Never quote guaranteed coverage.*
+## Flag key
+- ⚠️ **no ranking claim** (#26, 75, 76) — "best/celebrity" written as "what to look for," not ranked lists (YMYL).
+- ⚠️ **detox danger** (#36, 40, 42) — alcohol/benzo withdrawal carries seizure/DTs risk; medical detox not optional.
+- ⚠️ **no success claims / cite sources** (#52, 56) — no unsourced success rates or outcome promises.
+- ⚠️ **IPV screening** (#59) — toxic-relationship page needs intimate-partner-violence safety framing.
+- **911/988** (#27–29) — emergency pages lead with crisis lines.
+- **→/telehealth/** (#80–82) — link the real telehealth pillar.
+- **link anchor** (#86–90) — hub pages; build first so siblings have link targets.
+- #41 prescription-drug-rehab appears twice in source — build once.
 
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /detox-that-accepts-insurance/ | insurance | — | detox that accepts insurance | call-primary |
-| /detox-covered-by-insurance/ | insurance | — | detox covered by insurance | call-primary |
-| /inpatient-rehab-with-insurance/ | insurance | — | inpatient rehab with insurance | call-primary |
-| /private-insurance-detox-center/ | insurance | — | private insurance detox center | call-primary |
-| /rehab-that-accepts-blue-cross/ | insurance | — | rehab that accepts Blue Cross | call-primary |
-| /rehab-that-accepts-aetna/ | insurance | — | rehab that accepts Aetna | call-primary |
-| /rehab-that-accepts-cigna/ | insurance | — | rehab that accepts Cigna | call-primary |
-| /rehab-that-accepts-united-healthcare/ | insurance | — | rehab that accepts United Healthcare | call-primary |
-| /drug-rehab-that-accepts-ppo-insurance/ | insurance | — | drug rehab that accepts PPO insurance | call-primary |
-| /how-to-pay-for-drug-rehab-with-insurance/ | insurance | — | how to pay for drug rehab with insurance | call-primary |
-| /does-insurance-cover-couples-rehab/ | insurance | — | does insurance cover couples rehab | call-primary |
-| /how-to-use-insurance-for-couples-rehab/ | insurance | — | how to use insurance for couples rehab | call-primary |
-| /couples-rehab-that-accepts-blue-cross/ | insurance | — | couples rehab that accepts Blue Cross | call-primary |
-| /couples-rehab-that-accepts-aetna/ | insurance | — | couples rehab that accepts Aetna | call-primary |
-| /couples-rehab-that-accepts-cigna/ | insurance | — | couples rehab that accepts Cigna | call-primary |
-| /couples-rehab-that-accepts-united-healthcare/ | insurance | — | couples rehab that accepts United Healthcare | call-primary |
-| /couples-rehab-with-ppo-insurance/ | insurance | — | couples rehab with PPO insurance | call-primary |
-| /free-addiction-help-for-couples/ | insurance | — | free addiction help for couples | call-primary |
-
-## CLUSTER 4 — Couples Detox & Crisis
-**Pillar:** `/couples-detox-programs/`
-*Couples angle: codependency, joint vs separate detox, supporting a partner, relapse. Mix of intent levels.*
-
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /can-couples-go-to-detox-together/ | couples | — | can couples go to detox together | assessment-primary |
-| /couples-detox-near-me/ | emergency-intent | near-me | couples detox near me | call-primary |
-| /same-day-couples-detox/ | emergency-intent | — | same day couples detox | call-primary |
-| /emergency-couples-detox/ | emergency-intent | — | emergency couples detox | call-primary |
-| /fentanyl-detox-for-couples/ | couples | — | fentanyl detox for couples | call-primary |
-| /alcohol-detox-for-couples/ | couples | — | alcohol detox for couples | call-primary |
-| /medical-detox-for-married-couples/ | couples | — | medical detox for married couples | call-primary |
-| /private-couples-detox/ | couples | — | private couples detox | call-primary |
-| /how-to-help-your-spouse-through-withdrawal/ | couples | — | help spouse through withdrawal | assessment-primary |
-| /what-to-do-if-your-partner-relapses/ | couples | — | what to do if partner relapses | assessment-primary |
-| /when-your-partner-refuses-detox/ | couples | — | when your partner refuses detox | call-primary |
-| /how-to-stage-an-intervention-for-your-spouse/ | couples | — | how to stage an intervention for spouse | call-primary |
-| /couples-rehab-with-same-day-admission/ | emergency-intent | — | couples rehab same day admission | call-primary |
-| /24-hour-couples-rehab-hotline/ | emergency-intent | — | 24 hour couples rehab hotline | call-primary |
-| /emergency-help-for-addicted-couples/ | emergency-intent | — | emergency help for addicted couples | call-primary |
-| /24-hour-couples-rehab-admission/ | emergency-intent | — | 24 hour couples rehab admission | call-primary |
-
-## CLUSTER 5 — Southern California Geo
-**Pillar:** `/couples-detox-programs/` (link city pages up to relevant care path + to nearest regional page)
-*geo type. "Providers serving [city/area]" — never "our [city] center." Include local context (county, access, nearby areas).*
-
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /detox-north-hollywood/ | geo | North Hollywood | detox North Hollywood | call-primary |
-| /detox-burbank/ | geo | Burbank | detox Burbank | call-primary |
-| /detox-glendale/ | geo | Glendale | detox Glendale | call-primary |
-| /detox-pasadena/ | geo | Pasadena | detox Pasadena | call-primary |
-| /detox-santa-clarita/ | geo | Santa Clarita | detox Santa Clarita | call-primary |
-| /detox-los-angeles/ | geo | Los Angeles | detox Los Angeles | call-primary |
-| /inpatient-detox-los-angeles/ | geo | Los Angeles | inpatient detox Los Angeles | call-primary |
-| /fentanyl-detox-los-angeles/ | geo | Los Angeles | fentanyl detox Los Angeles | call-primary |
-| /same-day-detox-los-angeles/ | geo | Los Angeles | same day detox Los Angeles | call-primary |
-| /private-detox-los-angeles/ | geo | Los Angeles | private detox Los Angeles | call-primary |
-| /medical-detox-los-angeles/ | geo | Los Angeles | medical detox Los Angeles | call-primary |
-| /24-hour-detox-los-angeles/ | geo | Los Angeles | 24 hour detox Los Angeles | call-primary |
-| /detox-orange-county/ | geo | Orange County | detox Orange County | call-primary |
-| /fentanyl-detox-orange-county/ | geo | Orange County | fentanyl detox Orange County | call-primary |
-| /same-day-detox-orange-county/ | geo | Orange County | same day detox Orange County | call-primary |
-| /medical-detox-orange-county/ | geo | Orange County | medical detox Orange County | call-primary |
-| /detox-irvine-ca/ | geo | Irvine | detox Irvine CA | call-primary |
-| /detox-newport-beach-ca/ | geo | Newport Beach | detox Newport Beach CA | call-primary |
-| /detox-huntington-beach-ca/ | geo | Huntington Beach | detox Huntington Beach CA | call-primary |
-| /detox-anaheim-ca/ | geo | Anaheim | detox Anaheim CA | call-primary |
-| /detox-santa-ana-ca/ | geo | Santa Ana | detox Santa Ana CA | call-primary |
-| /detox-costa-mesa-ca/ | geo | Costa Mesa | detox Costa Mesa CA | call-primary |
-| /couples-detox-los-angeles/ | geo | Los Angeles | couples detox Los Angeles | call-primary |
-| /couples-detox-orange-county/ | geo | Orange County | couples detox Orange County | call-primary |
-| /couples-fentanyl-detox-los-angeles/ | geo | Los Angeles | couples fentanyl detox Los Angeles | call-primary |
-| /couples-alcohol-detox-los-angeles/ | geo | Los Angeles | couples alcohol detox Los Angeles | call-primary |
-| /same-day-couples-detox-los-angeles/ | geo | Los Angeles | same day couples detox Los Angeles | call-primary |
-| /emergency-couples-detox-los-angeles/ | geo | Los Angeles | emergency couples detox Los Angeles | call-primary |
-| /couples-rehab-los-angeles-same-day-admission/ | geo | Los Angeles | couples rehab Los Angeles same day | call-primary |
-| /couples-rehab-orange-county-same-day-admission/ | geo | Orange County | couples rehab Orange County same day | call-primary |
-| /private-couples-rehab-california/ | geo | California | private couples rehab California | call-primary |
-| /luxury-couples-detox-california/ | geo | California | luxury couples detox California | call-primary |
-| /hollywood-detox-center/ | geo | Hollywood | Hollywood detox center | call-primary |
-| /beverly-hills-detox-center/ | geo | Beverly Hills | Beverly Hills detox center | call-primary |
-| /malibu-detox-center/ | geo | Malibu | Malibu detox center | call-primary |
-| /encino-detox-center/ | geo | Encino | Encino detox center | call-primary |
-| /woodland-hills-detox/ | geo | Woodland Hills | Woodland Hills detox | call-primary |
-| /sherman-oaks-detox/ | geo | Sherman Oaks | Sherman Oaks detox | call-primary |
-| /drug-detox-san-diego/ | geo | San Diego | drug detox San Diego | call-primary |
-| /same-day-detox-san-diego/ | geo | San Diego | same day detox San Diego | call-primary |
-| /medical-detox-riverside/ | geo | Riverside | medical detox Riverside | call-primary |
-| /medical-detox-san-bernardino/ | geo | San Bernardino | medical detox San Bernardino | call-primary |
-| /detox-ventura-county/ | geo | Ventura County | detox Ventura County | call-primary |
-| /detox-long-beach/ | geo | Long Beach | detox Long Beach | call-primary |
-| /emergency-detox-california/ | geo | California | emergency detox California | call-primary |
-| /state-funded-detox-california/ | geo | California | state funded detox California | call-primary |
-| /california-detox-that-accepts-insurance/ | geo | California | California detox that accepts insurance | call-primary |
-| /ppo-detox-california/ | geo | California | PPO detox California | call-primary |
-| /blue-cross-detox-california/ | geo | California | Blue Cross detox California | call-primary |
-| /aetna-detox-california/ | geo | California | Aetna detox California | call-primary |
-| /cigna-detox-california/ | geo | California | Cigna detox California | call-primary |
-| /united-healthcare-detox-california/ | geo | California | United Healthcare detox California | call-primary |
-| /best-detox-centers-in-los-angeles/ | geo | Los Angeles | best detox centers Los Angeles | call-primary |
-| /top-rated-detox-centers-orange-county/ | geo | Orange County | top rated detox centers Orange County | call-primary |
-| /detox-with-private-rooms-california/ | geo | California | detox with private rooms California | call-primary |
-| /executive-detox-california/ | geo | California | executive detox California | call-primary |
-| /pet-friendly-detox-california/ | geo | California | pet friendly detox California | call-primary |
-| /detox-for-professionals-california/ | geo | California | detox for professionals California | call-primary |
-| /detox-for-couples-with-children/ | couples | — | detox for couples with children | call-primary |
-| /rehab-for-married-couples-california/ | geo | California | rehab for married couples California | call-primary |
-
-*Note on "best/top-rated" slugs: the site states no rankings. Write these as "how to evaluate," "what to look for," "verified providers serving [area]" — not as a ranked list. Keep the keyword, drop the ranking claim.*
-
-## CLUSTER 6 — National Couples Rehab Geo
-**Pillar:** `/couples-residential-rehab/` + `/couples-addiction-treatment/`
-*geo type. State-level. Same "providers serving [state]" framing.*
-
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /couples-rehab-new-york/ | geo | New York | couples rehab New York | call-primary |
-| /couples-detox-new-york/ | geo | New York | couples detox New York | call-primary |
-| /same-day-couples-rehab-nyc/ | geo | NYC | same day couples rehab NYC | call-primary |
-| /emergency-couples-rehab-nyc/ | geo | NYC | emergency couples rehab NYC | call-primary |
-| /inpatient-couples-rehab-new-york/ | geo | New York | inpatient couples rehab New York | call-primary |
-| /luxury-couples-rehab-new-york/ | geo | New York | luxury couples rehab New York | call-primary |
-| /couples-rehab-florida/ | geo | Florida | couples rehab Florida | call-primary |
-| /couples-detox-florida/ | geo | Florida | couples detox Florida | call-primary |
-| /same-day-couples-rehab-miami/ | geo | Miami | same day couples rehab Miami | call-primary |
-| /fentanyl-detox-florida/ | geo | Florida | fentanyl detox Florida | call-primary |
-| /couples-rehab-texas/ | geo | Texas | couples rehab Texas | call-primary |
-| /couples-detox-texas/ | geo | Texas | couples detox Texas | call-primary |
-| /same-day-rehab-texas/ | geo | Texas | same day rehab Texas | call-primary |
-| /medical-detox-texas/ | geo | Texas | medical detox Texas | call-primary |
-| /couples-rehab-arizona/ | geo | Arizona | couples rehab Arizona | call-primary |
-| /couples-detox-arizona/ | geo | Arizona | couples detox Arizona | call-primary |
-| /couples-rehab-nevada/ | geo | Nevada | couples rehab Nevada | call-primary |
-| /couples-detox-nevada/ | geo | Nevada | couples detox Nevada | call-primary |
-| /couples-rehab-illinois/ | geo | Illinois | couples rehab Illinois | call-primary |
-| /couples-detox-illinois/ | geo | Illinois | couples detox Illinois | call-primary |
-| /couples-rehab-georgia/ | geo | Georgia | couples rehab Georgia | call-primary |
-| /couples-detox-georgia/ | geo | Georgia | couples detox Georgia | call-primary |
-| /couples-rehab-pennsylvania/ | geo | Pennsylvania | couples rehab Pennsylvania | call-primary |
-| /couples-detox-pennsylvania/ | geo | Pennsylvania | couples detox Pennsylvania | call-primary |
-| /couples-rehab-tennessee/ | geo | Tennessee | couples rehab Tennessee | call-primary |
-| /couples-detox-tennessee/ | geo | Tennessee | couples detox Tennessee | call-primary |
-| /couples-rehab-massachusetts/ | geo | Massachusetts | couples rehab Massachusetts | call-primary |
-| /couples-detox-massachusetts/ | geo | Massachusetts | couples detox Massachusetts | call-primary |
-| /couples-rehab-new-jersey/ | geo | New Jersey | couples rehab New Jersey | call-primary |
-| /couples-detox-new-jersey/ | geo | New Jersey | couples detox New Jersey | call-primary |
-
-## CLUSTER 7 — Couples Relationship & Recovery (education)
-**Pillar:** `/marriage-counseling/`, `/trauma-therapy/`, `/couples-addiction-treatment/`
-*Top-of-funnel education; assessment-primary. Builds topical authority + feeds down-funnel pages.*
-
-| Slug | Type | Geo | Target keyword | CTA mode |
-|---|---|---|---|---|
-| /rehab-that-allows-couples/ | couples | — | rehab that allows couples | assessment-primary |
-| /can-unmarried-couples-go-to-rehab-together/ | couples | — | can unmarried couples go to rehab together | assessment-primary |
-| /rehab-for-engaged-couples/ | couples | — | rehab for engaged couples | assessment-primary |
-| /rehab-for-lgbtq-couples/ | couples | — | rehab for LGBTQ couples | assessment-primary |
-| /couples-rehab-with-children/ | couples | — | couples rehab with children | assessment-primary |
-| /virtual-couples-addiction-counseling/ | couples | — | virtual couples addiction counseling | assessment-primary |
-| /online-couples-rehab-programs/ | couples | — | online couples rehab programs | assessment-primary |
-| /telehealth-addiction-treatment-for-couples/ | couples | — | telehealth addiction treatment for couples | assessment-primary |
-| /couples-intensive-outpatient-program/ | couples | — | couples intensive outpatient program | assessment-primary |
-| /couples-php-program/ | couples | — | couples PHP program | assessment-primary |
-| /couples-sober-living/ | couples | — | couples sober living | assessment-primary |
-| /aftercare-for-couples-in-recovery/ | couples | — | aftercare for couples in recovery | assessment-primary |
-| /marriage-counseling-after-rehab/ | education | — | marriage counseling after rehab | assessment-primary |
-| /rebuilding-trust-after-addiction/ | education | — | rebuilding trust after addiction | assessment-primary |
-| /how-addiction-destroys-relationships/ | education | — | how addiction destroys relationships | assessment-primary |
-| /codependency-and-addiction-in-marriage/ | education | — | codependency and addiction in marriage | assessment-primary |
-| /domestic-violence-and-addiction-help/ | education | — | domestic violence and addiction help | call-primary |
-| /trauma-bonding-and-substance-abuse/ | education | — | trauma bonding and substance abuse | assessment-primary |
-| /couples-therapy-after-detox/ | education | — | couples therapy after detox | assessment-primary |
-| /behavioral-therapy-for-couples-addiction/ | education | — | behavioral therapy for couples addiction | assessment-primary |
-
----
-
-## Telehealth note
-`/online-couples-rehab-programs/`, `/telehealth-addiction-treatment-for-couples/`, `/virtual-couples-addiction-counseling/` should link to the real `/telehealth/` pillar — this is a genuine differentiator the live site leads with.
-
-## Crisis pages
-Any emergency-intent or domestic-violence slug links to `/crisis-support/` and shows 911 + 988 prominently near the top.
+## Suggested build order
+Hub (#86–90) → Crisis + Emergency (#27–29, 61–66) → Substance (#35–43) → everything else → LA Geo at scale (#1–22).
