@@ -145,7 +145,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 83 | [ ] | Rehab for Couples With Children | `/rehab-for-couples-with-children/` | Niche | couples | call | |
 | 84 | [ ] | Young Couples Addiction Treatment | `/young-couples-addiction-treatment/` | Niche | couples | call | |
 | 85 | [ ] | Rehab for LGBTQ Married Couples | `/rehab-for-lgbtq-married-couples/` | Niche | couples | call | |
-| 86 | [ ] | Couples Rehab Admissions Guide | `/couples-rehab-admissions-guide/` | Hub | comparison | call | link anchor |
+| 86 | [✅] | Couples Rehab Admissions Guide | `/couples-rehab-admissions-guide/` | Hub | comparison | call | link anchor |
 | 87 | [ ] | Couples Detox Admissions Process | `/couples-detox-admissions-process/` | Hub | comparison | call | link anchor |
 | 88 | [ ] | Couples Rehab Insurance Verification | `/couples-rehab-insurance-verification/` | Hub | insurance | call | link anchor |
 | 89 | [ ] | LA Couples Recovery Resource Guide | `/los-angeles-couples-recovery-resource-guide/` | Hub | education | call | link anchor |
