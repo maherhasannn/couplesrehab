@@ -45,17 +45,16 @@ Generic "medically cautious" prose loses. Match the RI page's register:
 Match the RI page's anatomy:
 1. **H1** (e.g. "Couples Detox in Rhode Island").
 2. **CTA Box 1 (top)** — see CTA templates below. Place at or near the top, right after the H1/intro.
-3. **Medically-reviewed byline** — "Medically Reviewed by [Reviewer Name, Credential #] — Updated [year]." (Use the site's reviewer; placeholder if unknown.)
-4. **Crisis blockquote near top** — bold: 911 for emergencies; call/text 988; any state-specific crisis resource (e.g. RI's BH Link); plus the 888 number for confidential placement.
-5. **Opening** — detox-as-foundation framing + what the page covers + the "we are a placement network, not a facility" disclosure.
-6. **Deep clinical body** — sections drawn from: What Is [Topic]; Can Couples [X] Together in [State] (with the bulleted clinical-factors list incl. relationship-safety/IPV screening); Why Detox First; Withdrawal Symptoms by substance (subheads per class); Substances That Require Medical Detox; Dual Diagnosis; What Happens During Detox (intake → medical eval → monitoring → meds → therapy → safety screening → transition planning); Inpatient vs Outpatient (comparison table); Geo section; Insurance; Challenges; Benefits of Detoxing Together; What Happens After (continuum: residential → inpatient → outpatient/PHP/IOP → couples therapy → sober living → relapse prevention → long-term); How to Get Help (numbered steps). Pull the subset relevant to the page type.
-7. **CTA Box 2 (middle)** — see CTA templates below. Place around the clinical midpoint (after the withdrawal/detox-risk sections is ideal — it follows naturally from the danger discussion).
-8. **Comparison table** — at least one (inpatient vs outpatient, or detox vs rehab).
-9. **CTA Box 3 (end)** — see CTA templates below. Place near or at the end, before the FAQ or between the closing section and FAQ.
-10. **Closing section** + **closing crisis blockquote** with the 888 number, 988, and 911.
-11. **FAQ** — 15–25 Q&As (see below).
-12. **Trusted Sources / Authority References** — bulleted, named federal/state authorities with links (SAMHSA, NIDA, CDC, NIH, state health dept, 988).
-13. **Editorial disclaimer paragraph** — medically-reviewed-by + "placement/referral service, not a treatment facility" + "not medical advice" + admission depends on assessment/beds/authorization + 911/988.
+3. **Crisis blockquote near top** — bold: 911 for emergencies; call/text 988; any state-specific crisis resource (e.g. RI's BH Link); plus the 888 number for confidential placement.
+4. **Opening** — detox-as-foundation framing + what the page covers + the "we are a placement network, not a facility" disclosure.
+5. **Deep clinical body** — sections drawn from: What Is [Topic]; Can Couples [X] Together in [State] (with the bulleted clinical-factors list incl. relationship-safety/IPV screening); Why Detox First; Withdrawal Symptoms by substance (subheads per class); Substances That Require Medical Detox; Dual Diagnosis; What Happens During Detox (intake → medical eval → monitoring → meds → therapy → safety screening → transition planning); Inpatient vs Outpatient (comparison table); Geo section; Insurance; Challenges; Benefits of Detoxing Together; What Happens After (continuum: residential → inpatient → outpatient/PHP/IOP → couples therapy → sober living → relapse prevention → long-term); How to Get Help (numbered steps). Pull the subset relevant to the page type.
+6. **CTA Box 2 (middle)** — see CTA templates below. Place around the clinical midpoint (after the withdrawal/detox-risk sections is ideal — it follows naturally from the danger discussion).
+7. **Comparison table** — at least one (inpatient vs outpatient, or detox vs rehab).
+8. **CTA Box 3 (end)** — see CTA templates below. Place near or at the end, before the FAQ or between the closing section and FAQ.
+9. **Closing section** + **closing crisis blockquote** with the 888 number, 988, and 911.
+10. **FAQ** — 15–25 Q&As (see below).
+11. **Trusted Sources / Authority References** — bulleted, named federal/state authorities with links (SAMHSA, NIDA, CDC, NIH, state health dept, 988).
+12. **Editorial disclaimer paragraph** — medically-reviewed-by + "placement/referral service, not a treatment facility" + "not medical advice" + admission depends on assessment/beds/authorization + 911/988.
 
 ## CTA BOXES — required, 3 per article (top / middle / end)
 Every article embeds three styled HTML CTA boxes based on the templates below. The templates are the visual standard; **customize the variable parts per page** — topic label, geo, headline, body copy, and the internal links must match the page's topic and cluster (from the URL map). Do NOT hardcode "Rhode Island" or detox-specific links onto a non-detox or different-geo page.
