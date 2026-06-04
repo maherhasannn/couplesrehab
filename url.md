@@ -123,7 +123,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 61 | [✅] | My Husband Is Addicted to Drugs | `/my-husband-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
 | 62 | [✅] | My Wife Is an Alcoholic | `/my-wife-is-an-alcoholic/` | Crisis | couples | call | high-intent |
 | 63 | [✅] | My Boyfriend Is Addicted to Drugs | `/my-boyfriend-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
-| 64 | [ ] | My Girlfriend Needs Rehab | `/my-girlfriend-needs-rehab/` | Crisis | couples | call | high-intent |
+| 64 | [✅] | My Girlfriend Needs Rehab | `/my-girlfriend-needs-rehab/` | Crisis | couples | call | high-intent |
 | 65 | [ ] | How to Convince Partner to Go | `/how-to-convince-your-partner-to-go-to-rehab/` | Crisis | couples | call | high-intent |
 | 66 | [ ] | Signs Your Relationship Needs Rehab | `/signs-your-relationship-needs-rehab/` | Crisis | couples | call | |
 | 67 | [ ] | Couples Intervention Services LA | `/couples-intervention-services-los-angeles/` | Intervention | couples | call | |
