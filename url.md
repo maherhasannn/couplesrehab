@@ -94,7 +94,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 32 | [ ] | Couples Rehab Magellan | `/magellan-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
 | 33 | [ ] | Couples Rehab Health Net | `/health-net-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
 | 34 | [ ] | Couples Rehab Optum | `/optum-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
-| 35 | [ ] | Fentanyl Treatment for Couples | `/fentanyl-addiction-treatment-for-couples/` | Substance | couples | call | |
+| 35 | [✅] | Fentanyl Treatment for Couples | `/fentanyl-addiction-treatment-for-couples/` | Substance | couples | call | |
 | 36 | [ ] | Alcohol Rehab for Couples CA | `/alcohol-rehab-for-couples-california/` | Substance | couples | call | ⚠️ detox danger |
 | 37 | [ ] | Meth Rehab for Couples LA | `/meth-rehab-for-couples-los-angeles/` | Substance | couples | call | |
 | 38 | [ ] | Cocaine Rehab for Couples CA | `/cocaine-rehab-for-couples-california/` | Substance | couples | call | |
@@ -124,7 +124,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 62 | [✅] | My Wife Is an Alcoholic | `/my-wife-is-an-alcoholic/` | Crisis | couples | call | high-intent |
 | 63 | [✅] | My Boyfriend Is Addicted to Drugs | `/my-boyfriend-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
 | 64 | [✅] | My Girlfriend Needs Rehab | `/my-girlfriend-needs-rehab/` | Crisis | couples | call | high-intent |
-| 65 | [ ] | How to Convince Partner to Go | `/how-to-convince-your-partner-to-go-to-rehab/` | Crisis | couples | call | high-intent |
+| 65 | [✅] | How to Convince Partner to Go | `/how-to-convince-your-partner-to-go-to-rehab/` | Crisis | couples | call | high-intent |
 | 66 | [ ] | Signs Your Relationship Needs Rehab | `/signs-your-relationship-needs-rehab/` | Crisis | couples | call | |
 | 67 | [ ] | Couples Intervention Services LA | `/couples-intervention-services-los-angeles/` | Intervention | couples | call | |
 | 68 | [ ] | Family Intervention Couples Addiction | `/family-intervention-for-couples-addiction/` | Intervention | couples | call | |
