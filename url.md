@@ -96,7 +96,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 34 | [ ] | Couples Rehab Optum | `/optum-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
 | 35 | [✅] | Fentanyl Treatment for Couples | `/fentanyl-addiction-treatment-for-couples/` | Substance | couples | call | |
 | 36 | [✅] | Alcohol Rehab for Couples CA | `/alcohol-rehab-for-couples-california/` | Substance | couples | call | ⚠️ detox danger |
-| 37 | [ ] | Meth Rehab for Couples LA | `/meth-rehab-for-couples-los-angeles/` | Substance | couples | call | |
+| 37 | [✅] | Meth Rehab for Couples LA | `/meth-rehab-for-couples-los-angeles/` | Substance | couples | call | |
 | 38 | [ ] | Cocaine Rehab for Couples CA | `/cocaine-rehab-for-couples-california/` | Substance | couples | call | |
 | 39 | [ ] | Heroin Rehab for Couples CA | `/heroin-rehab-for-couples-california/` | Substance | couples | call | |
 | 40 | [ ] | Xanax Treatment for Couples | `/xanax-addiction-treatment-for-couples/` | Substance | couples | call | ⚠️ detox danger |
