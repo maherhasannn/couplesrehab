@@ -112,7 +112,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 50 | [ ] | Marriage Counseling During Rehab | `/marriage-counseling-during-rehab/` | Mental Health | education | assess | |
 | 51 | [✅] | Can Couples Go to Rehab Together | `/can-couples-go-to-rehab-together/` | Info | comparison | assess | |
 | 52 | [ ] | Does Couples Rehab Actually Work | `/does-couples-rehab-actually-work/` | Info | education | assess | ⚠️ no success claims |
-| 53 | [ ] | How Long Is Couples Rehab | `/how-long-is-couples-rehab/` | Info | education | assess | |
+| 53 | [✅] | How Long Is Couples Rehab | `/how-long-is-couples-rehab/` | Info | education | assess | |
 | 54 | [ ] | How Much Does Couples Rehab Cost | `/how-much-does-couples-rehab-cost/` | Info | education | assess | |
 | 55 | [✅] | What Happens in Couples Rehab | `/what-happens-in-couples-rehab/` | Info | education | assess | |
 | 56 | [ ] | Couples Rehab Success Rates | `/couples-rehab-success-rates/` | Info | education | assess | ⚠️ cite sources |
