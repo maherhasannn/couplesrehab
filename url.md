@@ -106,7 +106,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 44 | [✅] | Couples Rehab Anxiety/Depression | `/couples-rehab-for-anxiety-and-depression/` | Mental Health | couples | call | |
 | 45 | [✅] | Trauma Therapy for Couples | `/trauma-therapy-for-couples-in-recovery/` | Mental Health | couples | call | |
 | 46 | [✅] | PTSD Treatment for Couples | `/ptsd-treatment-for-couples/` | Mental Health | couples | call | |
-| 47 | [ ] | Bipolar Treatment for Couples | `/bipolar-disorder-treatment-for-couples/` | Mental Health | couples | call | |
+| 47 | [✅] | Bipolar Treatment for Couples | `/bipolar-disorder-treatment-for-couples/` | Mental Health | couples | call | |
 | 48 | [ ] | OCD Treatment for Couples | `/ocd-treatment-for-couples/` | Mental Health | couples | call | |
 | 49 | [ ] | Couples Therapy During Recovery | `/couples-therapy-during-addiction-recovery/` | Mental Health | education | assess | |
 | 50 | [ ] | Marriage Counseling During Rehab | `/marriage-counseling-during-rehab/` | Mental Health | education | assess | |
