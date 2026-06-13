@@ -109,7 +109,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 47 | [✅] | Bipolar Treatment for Couples | `/bipolar-disorder-treatment-for-couples/` | Mental Health | couples | call | |
 | 48 | [✅] | OCD Treatment for Couples | `/ocd-treatment-for-couples/` | Mental Health | couples | call | |
 | 49 | [✅] | Couples Therapy During Recovery | `/couples-therapy-during-addiction-recovery/` | Mental Health | education | assess | |
-| 50 | [ ] | Marriage Counseling During Rehab | `/marriage-counseling-during-rehab/` | Mental Health | education | assess | |
+| 50 | [✅] | Marriage Counseling During Rehab | `/marriage-counseling-during-rehab/` | Mental Health | education | assess | |
 | 51 | [✅] | Can Couples Go to Rehab Together | `/can-couples-go-to-rehab-together/` | Info | comparison | assess | |
 | 52 | [ ] | Does Couples Rehab Actually Work | `/does-couples-rehab-actually-work/` | Info | education | assess | ⚠️ no success claims |
 | 53 | [✅] | How Long Is Couples Rehab | `/how-long-is-couples-rehab/` | Info | education | assess | |
