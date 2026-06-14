@@ -99,7 +99,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 37 | [✅] | Meth Rehab for Couples LA | `/meth-rehab-for-couples-los-angeles/` | Substance | couples | call | |
 | 38 | [✅] | Cocaine Rehab for Couples CA | `/cocaine-rehab-for-couples-california/` | Substance | couples | call | |
 | 39 | [✅] | Heroin Rehab for Couples CA | `/heroin-rehab-for-couples-california/` | Substance | couples | call | |
-| 40 | [ ] | Xanax Treatment for Couples | `/xanax-addiction-treatment-for-couples/` | Substance | couples | call | ⚠️ detox danger |
+| 40 | [✅] | Xanax Treatment for Couples | `/xanax-addiction-treatment-for-couples/` | Substance | couples | call | ⚠️ detox danger |
 | 41 | [ ] | Prescription Drug Rehab Couples | `/prescription-drug-rehab-for-couples/` | Substance | couples | call | dup of #41 in source |
 | 42 | [ ] | Couples Detox Alcohol Withdrawal | `/couples-detox-for-alcohol-withdrawal/` | Substance | couples | call | ⚠️ seizure/DTs |
 | 43 | [✅] | Couples Detox for Fentanyl | `/couples-detox-for-fentanyl/` | Substance | couples | call | |
