@@ -61,7 +61,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | # | Status | Page | Slug | Cluster | Type | CTA mode | Flags |
 |---|---|---|---|---|---|---|---|
 | 1 | [✅] | Couples Rehab Beverly Hills | `/couples-rehab-beverly-hills/` | LA Geo | geo | call | |
-| 2 | [ ] | Couples Rehab Santa Monica | `/couples-rehab-santa-monica/` | LA Geo | geo | call | |
+| 2 | [✅] | Couples Rehab Santa Monica | `/couples-rehab-santa-monica/` | LA Geo | geo | call | |
 | 3 | [ ] | Couples Rehab Pasadena | `/couples-rehab-pasadena/` | LA Geo | geo | call | |
 | 4 | [ ] | Couples Rehab Long Beach | `/couples-rehab-long-beach/` | LA Geo | geo | call | |
 | 5 | [ ] | Couples Rehab Glendale | `/couples-rehab-glendale/` | LA Geo | geo | call | |
