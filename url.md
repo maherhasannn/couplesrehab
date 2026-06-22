@@ -70,7 +70,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 8 | [✅] | Couples Rehab Torrance | `/couples-rehab-torrance/` | LA Geo | geo | call | |
 | 9 | [✅] | Couples Rehab West Hollywood | `/couples-rehab-west-hollywood/` | LA Geo | geo | call | |
 | 10 | [✅] | Couples Rehab Sherman Oaks | `/couples-rehab-sherman-oaks/` | LA Geo | geo | call | |
-| 11 | [ ] | Couples Rehab Studio City | `/couples-rehab-studio-city/` | LA Geo | geo | call | |
+| 11 | [✅] | Couples Rehab Studio City | `/couples-rehab-studio-city/` | LA Geo | geo | call | |
 | 12 | [ ] | Couples Rehab Encino | `/couples-rehab-encino/` | LA Geo | geo | call | |
 | 13 | [ ] | Couples Rehab Woodland Hills | `/couples-rehab-woodland-hills/` | LA Geo | geo | call | |
 | 14 | [ ] | Couples Rehab Calabasas | `/couples-rehab-calabasas/` | LA Geo | geo | call | |
