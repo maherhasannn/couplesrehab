@@ -117,7 +117,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 55 | [✅] | What Happens in Couples Rehab | `/what-happens-in-couples-rehab/` | Info | education | assess | |
 | 56 | [ ] | Couples Rehab Success Rates | `/couples-rehab-success-rates/` | Info | education | assess | ⚠️ cite sources |
 | 57 | [✅] | Couples Rehab vs Separate Rehab | `/couples-rehab-vs-separate-rehab/` | Info | comparison | assess | |
-| 58 | [ ] | Can Couples Share a Room in Rehab | `/can-married-couples-share-a-room-in-rehab/` | Info | education | assess | |
+| 58 | [✅] | Can Couples Share a Room in Rehab | `/can-married-couples-share-a-room-in-rehab/` | Info | education | assess | |
 | 59 | [ ] | Rehab Toxic Relationships/Addiction | `/rehab-for-toxic-relationships-and-addiction/` | Info | education | call | ⚠️ IPV screening |
 | 60 | [ ] | Relationship Problems from Addiction | `/relationship-problems-caused-by-addiction/` | Info | education | assess | |
 | 61 | [✅] | My Husband Is Addicted to Drugs | `/my-husband-is-addicted-to-drugs/` | Crisis | couples | call | high-intent |
