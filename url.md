@@ -76,7 +76,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 14 | [✅] | Couples Rehab Calabasas | `/couples-rehab-calabasas/` | LA Geo | geo | call | |
 | 15 | [✅] | Couples Rehab Redondo Beach | `/couples-rehab-redondo-beach/` | LA Geo | geo | call | |
 | 16 | [✅] | Couples Rehab Manhattan Beach | `/couples-rehab-manhattan-beach/` | LA Geo | geo | call | |
-| 17 | [ ] | Couples Rehab Hermosa Beach | `/couples-rehab-hermosa-beach/` | LA Geo | geo | call | |
+| 17 | [✅] | Couples Rehab Hermosa Beach | `/couples-rehab-hermosa-beach/` | LA Geo | geo | call | |
 | 18 | [ ] | Couples Rehab Marina Del Rey | `/couples-rehab-marina-del-rey/` | LA Geo | geo | call | |
 | 19 | [✅] | Couples Rehab Culver City | `/couples-rehab-culver-city/` | LA Geo | geo | call | |
 | 20 | [ ] | Couples Rehab Venice Beach | `/couples-rehab-venice-beach/` | LA Geo | geo | call | |
