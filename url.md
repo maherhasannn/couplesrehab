@@ -82,7 +82,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 20 | [✅] | Couples Rehab Venice Beach | `/couples-rehab-venice-beach/` | LA Geo | geo | call | |
 | 21 | [✅] | Couples Rehab Koreatown LA | `/couples-rehab-koreatown-los-angeles/` | LA Geo | geo | call | |
 | 22 | [✅] | Couples Rehab Downtown LA | `/couples-rehab-downtown-los-angeles/` | LA Geo | geo | call | |
-| 23 | [ ] | Luxury Couples Rehab LA | `/luxury-couples-rehab-los-angeles/` | Premium | geo | call | |
+| 23 | [✅] | Luxury Couples Rehab LA | `/luxury-couples-rehab-los-angeles/` | Premium | geo | call | |
 | 24 | [ ] | Private Couples Rehab CA | `/private-couples-rehab-california/` | Premium | geo | call | |
 | 25 | [ ] | Executive Couples Rehab LA | `/executive-couples-rehab-los-angeles/` | Premium | geo | call | |
 | 26 | [ ] | Celebrity Couples Rehab CA | `/celebrity-couples-rehab-california/` | Premium | geo | call | ⚠️ no real names |
