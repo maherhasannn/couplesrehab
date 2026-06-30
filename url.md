@@ -89,7 +89,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 27 | [ ] | Same Day Couples Detox CA | `/same-day-couples-detox-california/` | Emergency | emergency | call | 911/988 |
 | 28 | [ ] | Emergency Couples Rehab LA | `/emergency-couples-rehab-los-angeles/` | Emergency | emergency | call | 911/988 |
 | 29 | [ ] | 24 Hour Couples Rehab Admissions | `/24-hour-couples-rehab-admissions/` | Emergency | emergency | call | 911/988 |
-| 30 | [ ] | Couples Rehab PPO Insurance | `/couples-rehab-ppo-insurance/` | Insurance | insurance | call | no coverage guarantee |
+| 30 | [✅] | Couples Rehab PPO Insurance | `/couples-rehab-ppo-insurance/` | Insurance | insurance | call | no coverage guarantee |
 | 31 | [ ] | Couples Rehab Blue Shield | `/blue-shield-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
 | 32 | [ ] | Couples Rehab Magellan | `/magellan-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
 | 33 | [ ] | Couples Rehab Health Net | `/health-net-couples-rehab/` | Insurance | insurance | call | no coverage guarantee |
