@@ -131,7 +131,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 69 | [ ] | Couples Sober Living LA | `/couples-sober-living-los-angeles/` | Intervention | couples | call | |
 | 70 | [ ] | Pet Friendly Couples Rehab CA | `/pet-friendly-couples-rehab-california/` | Niche | couples | call | |
 | 71 | [ ] | Christian Couples Rehab CA | `/christian-couples-rehab-california/` | Niche | couples | call | |
-| 72 | [ ] | Holistic Couples Rehab LA | `/holistic-couples-rehab-los-angeles/` | Niche | couples | call | |
+| 72 | [✅] | Holistic Couples Rehab LA | `/holistic-couples-rehab-los-angeles/` | Niche | couples | call | |
 | 73 | [ ] | Beachfront Couples Rehab CA | `/beachfront-couples-rehab-california/` | Niche | couples | call | |
 | 74 | [✅] | Couples Rehab Near Me | `/couples-rehab-near-me/` | Niche | couples | call | |
 | 75 | [ ] | Best Couples Rehab CA | `/best-couples-rehab-california/` | Premium | geo | call | ⚠️ no ranking claim |
